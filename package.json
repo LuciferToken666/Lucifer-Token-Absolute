@@ -1,0 +1,22 @@
+{
+  "name": "lucifer-token-absolute",
+  "version": "1.0.0",
+  "description": "The Absolute Utility Token for AI Code Authority.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solidity",
+    "erc20",
+    "hardhat"
+  ],
+  "author": "Lucifer The Absolute Creator",
+  "license": "MIT",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "^5.0.1",
+    "dotenv": "^16.3.1",
+    "hardhat": "^2.19.4"
+  }
+}
